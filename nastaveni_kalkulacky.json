@@ -1,0 +1,1223 @@
+{
+  "life": [
+    {
+      "id": "6e591a79-b13e-4c56-8a62-a74cc95c1f3f",
+      "from": "2026-10-19",
+      "to": "",
+      "source": "zákon č. 110/2006 Sb., o životním a existenčním minimu, ve znění pozdějších předpisů.",
+      "v": {
+        "single": 5500,
+        "first": 5000,
+        "other": 3750,
+        "c1": 2480,
+        "c2": 3050,
+        "c3": 3490
+      }
+    }
+  ],
+  "energy": [
+    {
+      "id": "74ad420e-0a69-4acf-ad91-0feb75103f41",
+      "from": "2026-10-01",
+      "to": "",
+      "source": "Zákon č. 151/2025 Sb.",
+      "v": [
+        2300,
+        2800,
+        3300,
+        3800,
+        4300
+      ],
+      "coef": 1.4
+    }
+  ],
+  "norms": [
+    {
+      "id": "6b2483a3-673f-4297-90e7-6bf6eb507e37",
+      "from": "2026-10-01",
+      "to": "2026-12-31",
+      "source": "Sdělení č. 169/2026 Sb.",
+      "ordinary": {
+        "Hlavní město Praha|Praha": [
+          13380,
+          16190,
+          18570,
+          19710,
+          19820
+        ],
+        "Jihomoravský kraj|Blansko": [
+          9048,
+          11270,
+          12860,
+          12860,
+          13820
+        ],
+        "Jihomoravský kraj|Brno-město": [
+          11331,
+          13548,
+          15100,
+          15710,
+          15710
+        ],
+        "Jihomoravský kraj|Brno-venkov": [
+          9148,
+          12840,
+          14600,
+          15552,
+          15745
+        ],
+        "Jihomoravský kraj|Břeclav": [
+          9494,
+          12240,
+          12620,
+          13710,
+          13710
+        ],
+        "Jihomoravský kraj|Hodonín": [
+          8880,
+          10448,
+          12280,
+          12280,
+          12908
+        ],
+        "Jihomoravský kraj|Vyškov": [
+          9380,
+          12415,
+          12415,
+          14210,
+          14820
+        ],
+        "Jihomoravský kraj|Znojmo": [
+          8380,
+          10613,
+          12017,
+          12710,
+          12710
+        ],
+        "Jihočeský kraj|Jindřichův Hradec": [
+          7880,
+          10740,
+          11212,
+          11212,
+          12153
+        ],
+        "Jihočeský kraj|Prachatice": [
+          6880,
+          7632,
+          8600,
+          9710,
+          9710
+        ],
+        "Jihočeský kraj|Písek": [
+          7880,
+          10010,
+          11000,
+          11310,
+          11820
+        ],
+        "Jihočeský kraj|Strakonice": [
+          7682,
+          9065,
+          10344,
+          11520,
+          11520
+        ],
+        "Jihočeský kraj|Tábor": [
+          6547,
+          8469,
+          9300,
+          11310,
+          11310
+        ],
+        "Jihočeský kraj|České Budějovice": [
+          10730,
+          12240,
+          13600,
+          14022,
+          14133
+        ],
+        "Jihočeský kraj|Český Krumlov": [
+          7680,
+          9690,
+          9800,
+          9800,
+          10320
+        ],
+        "Karlovarský kraj|Cheb": [
+          7380,
+          9240,
+          10600,
+          10710,
+          11337
+        ],
+        "Karlovarský kraj|Karlovy Vary": [
+          8280,
+          9740,
+          11596,
+          12430,
+          12430
+        ],
+        "Karlovarský kraj|Sokolov": [
+          6324,
+          8293,
+          9435,
+          9558,
+          10442
+        ],
+        "Kraj Vysočina|Havlíčkův Brod": [
+          7655,
+          9030,
+          10100,
+          11835,
+          11835
+        ],
+        "Kraj Vysočina|Jihlava": [
+          9072,
+          11240,
+          12600,
+          13210,
+          14727
+        ],
+        "Kraj Vysočina|Pelhřimov": [
+          7801,
+          9934,
+          11889,
+          11889,
+          11889
+        ],
+        "Kraj Vysočina|Třebíč": [
+          8080,
+          10240,
+          11034,
+          11034,
+          12061
+        ],
+        "Kraj Vysočina|Žďár nad Sázavou": [
+          5889,
+          10415,
+          10516,
+          10516,
+          10516
+        ],
+        "Královéhradecký kraj|Hradec Králové": [
+          10880,
+          12740,
+          14282,
+          14710,
+          14710
+        ],
+        "Královéhradecký kraj|Jičín": [
+          8105,
+          10240,
+          11600,
+          12210,
+          12820
+        ],
+        "Královéhradecký kraj|Náchod": [
+          6996,
+          9140,
+          10100,
+          10740,
+          11292
+        ],
+        "Královéhradecký kraj|Rychnov nad Kněžnou": [
+          7610,
+          10296,
+          11286,
+          11286,
+          12420
+        ],
+        "Královéhradecký kraj|Trutnov": [
+          7813,
+          10040,
+          11090,
+          11710,
+          11710
+        ],
+        "Liberecký kraj|Jablonec nad Nisou": [
+          8380,
+          10640,
+          11900,
+          12910,
+          12910
+        ],
+        "Liberecký kraj|Liberec": [
+          9380,
+          11315,
+          12600,
+          13110,
+          13166
+        ],
+        "Liberecký kraj|Semily": [
+          6880,
+          9240,
+          11600,
+          11710,
+          12140
+        ],
+        "Liberecký kraj|Česká Lípa": [
+          7907,
+          9940,
+          11434,
+          11710,
+          12370
+        ],
+        "Moravskoslezský kraj|Bruntál": [
+          5880,
+          7740,
+          8750,
+          8750,
+          10835
+        ],
+        "Moravskoslezský kraj|Frýdek-Místek": [
+          8356,
+          11009,
+          12275,
+          12835,
+          12835
+        ],
+        "Moravskoslezský kraj|Karviná": [
+          7898,
+          9382,
+          10316,
+          11032,
+          11425
+        ],
+        "Moravskoslezský kraj|Nový Jičín": [
+          6680,
+          9037,
+          10800,
+          11238,
+          11238
+        ],
+        "Moravskoslezský kraj|Opava": [
+          8380,
+          10940,
+          12240,
+          12610,
+          13259
+        ],
+        "Moravskoslezský kraj|Ostrava-město": [
+          9140,
+          10958,
+          11784,
+          12502,
+          12820
+        ],
+        "Olomoucký kraj|Jeseník": [
+          6714,
+          7934,
+          8600,
+          9090,
+          10418
+        ],
+        "Olomoucký kraj|Olomouc": [
+          9680,
+          11990,
+          13600,
+          13710,
+          13770
+        ],
+        "Olomoucký kraj|Prostějov": [
+          8080,
+          10240,
+          11767,
+          12186,
+          13513
+        ],
+        "Olomoucký kraj|Přerov": [
+          7880,
+          9240,
+          10600,
+          10926,
+          11293
+        ],
+        "Olomoucký kraj|Šumperk": [
+          8080,
+          9740,
+          10600,
+          10610,
+          11224
+        ],
+        "Pardubický kraj|Chrudim": [
+          8880,
+          10290,
+          10840,
+          11938,
+          12110
+        ],
+        "Pardubický kraj|Pardubice": [
+          10080,
+          12666,
+          13660,
+          14710,
+          15970
+        ],
+        "Pardubický kraj|Svitavy": [
+          7213,
+          10146,
+          10870,
+          10870,
+          10870
+        ],
+        "Pardubický kraj|Ústí nad Orlicí": [
+          6208,
+          9240,
+          10600,
+          10600,
+          11220
+        ],
+        "Plzeňský kraj|Domažlice": [
+          6920,
+          9240,
+          9400,
+          10309,
+          11220
+        ],
+        "Plzeňský kraj|Klatovy": [
+          5880,
+          8510,
+          9075,
+          9210,
+          9820
+        ],
+        "Plzeňský kraj|Plzeň-jih": [
+          7850,
+          9513,
+          11173,
+          13710,
+          13710
+        ],
+        "Plzeňský kraj|Plzeň-město": [
+          10180,
+          12160,
+          13700,
+          14720,
+          14720
+        ],
+        "Plzeňský kraj|Plzeň-sever": [
+          7880,
+          10840,
+          11600,
+          12148,
+          12320
+        ],
+        "Plzeňský kraj|Rokycany": [
+          6880,
+          8740,
+          9330,
+          10096,
+          10096
+        ],
+        "Plzeňský kraj|Tachov": [
+          7958,
+          9573,
+          10600,
+          10600,
+          11870
+        ],
+        "Středočeský kraj|Benešov": [
+          8136,
+          11146,
+          11708,
+          13710,
+          13710
+        ],
+        "Středočeský kraj|Beroun": [
+          10880,
+          12240,
+          14400,
+          14400,
+          14400
+        ],
+        "Středočeský kraj|Kladno": [
+          9880,
+          11690,
+          13350,
+          13960,
+          14820
+        ],
+        "Středočeský kraj|Kolín": [
+          9147,
+          12096,
+          13475,
+          14710,
+          14934
+        ],
+        "Středočeský kraj|Kutná Hora": [
+          8698,
+          11440,
+          12600,
+          12710,
+          14820
+        ],
+        "Středočeský kraj|Mladá Boleslav": [
+          9444,
+          12240,
+          13600,
+          13600,
+          16320
+        ],
+        "Středočeský kraj|Mělník": [
+          9880,
+          12685,
+          13600,
+          15210,
+          15525
+        ],
+        "Středočeský kraj|Nymburk": [
+          10324,
+          12146,
+          13600,
+          13710,
+          14084
+        ],
+        "Středočeský kraj|Praha-východ": [
+          11547,
+          14440,
+          15320,
+          18110,
+          18110
+        ],
+        "Středočeský kraj|Praha-západ": [
+          11848,
+          14640,
+          16600,
+          18293,
+          19737
+        ],
+        "Středočeský kraj|Příbram": [
+          8880,
+          11023,
+          12008,
+          12710,
+          12710
+        ],
+        "Středočeský kraj|Rakovník": [
+          8584,
+          10734,
+          13291,
+          13291,
+          13291
+        ],
+        "Zlínský kraj|Kroměříž": [
+          7380,
+          10141,
+          11578,
+          11710,
+          12440
+        ],
+        "Zlínský kraj|Uherské Hradiště": [
+          8880,
+          11240,
+          12101,
+          12101,
+          13320
+        ],
+        "Zlínský kraj|Vsetín": [
+          7592,
+          10073,
+          11065,
+          11065,
+          11820
+        ],
+        "Zlínský kraj|Zlín": [
+          8383,
+          10740,
+          11998,
+          12350,
+          12820
+        ],
+        "Ústecký kraj|Chomutov": [
+          7239,
+          9190,
+          10600,
+          10610,
+          11720
+        ],
+        "Ústecký kraj|Děčín": [
+          6980,
+          8920,
+          9958,
+          10897,
+          11560
+        ],
+        "Ústecký kraj|Litoměřice": [
+          8880,
+          10918,
+          12289,
+          12289,
+          12289
+        ],
+        "Ústecký kraj|Louny": [
+          8380,
+          10240,
+          10810,
+          11210,
+          12820
+        ],
+        "Ústecký kraj|Most": [
+          7181,
+          8892,
+          9838,
+          10560,
+          10920
+        ],
+        "Ústecký kraj|Teplice": [
+          7530,
+          9340,
+          10374,
+          11136,
+          11136
+        ],
+        "Ústecký kraj|Ústí nad Labem": [
+          7932,
+          9740,
+          10461,
+          11272,
+          11520
+        ]
+      },
+      "vulnerable": {
+        "Hlavní město Praha|Praha": [
+          16810,
+          19770,
+          22794,
+          24370,
+          24880
+        ],
+        "Jihomoravský kraj|Blansko": [
+          11766,
+          14545,
+          15538,
+          16962,
+          17963
+        ],
+        "Jihomoravský kraj|Brno-město": [
+          14910,
+          17270,
+          19230,
+          20370,
+          20370
+        ],
+        "Jihomoravský kraj|Brno-venkov": [
+          12810,
+          15780,
+          17730,
+          18370,
+          19380
+        ],
+        "Jihomoravský kraj|Břeclav": [
+          12660,
+          14595,
+          16130,
+          17370,
+          17880
+        ],
+        "Jihomoravský kraj|Hodonín": [
+          11310,
+          13270,
+          14730,
+          15618,
+          16380
+        ],
+        "Jihomoravský kraj|Vyškov": [
+          12710,
+          15430,
+          16230,
+          17370,
+          18295
+        ],
+        "Jihomoravský kraj|Znojmo": [
+          11310,
+          13270,
+          14855,
+          15994,
+          16621
+        ],
+        "Jihočeský kraj|Jindřichův Hradec": [
+          10940,
+          13733,
+          14230,
+          14855,
+          17880
+        ],
+        "Jihočeský kraj|Prachatice": [
+          10285,
+          11559,
+          12863,
+          14370,
+          14370
+        ],
+        "Jihočeský kraj|Písek": [
+          10660,
+          12602,
+          14080,
+          14852,
+          14902
+        ],
+        "Jihočeský kraj|Strakonice": [
+          10152,
+          11980,
+          13137,
+          13766,
+          14380
+        ],
+        "Jihočeský kraj|Tábor": [
+          9385,
+          11770,
+          13185,
+          14670,
+          14670
+        ],
+        "Jihočeský kraj|České Budějovice": [
+          13310,
+          14770,
+          16230,
+          17370,
+          17380
+        ],
+        "Jihočeský kraj|Český Krumlov": [
+          10310,
+          12845,
+          13633,
+          13633,
+          14880
+        ],
+        "Karlovarský kraj|Cheb": [
+          9800,
+          11770,
+          13280,
+          13970,
+          15530
+        ],
+        "Karlovarský kraj|Karlovy Vary": [
+          10810,
+          12391,
+          14230,
+          14924,
+          15018
+        ],
+        "Karlovarský kraj|Sokolov": [
+          8914,
+          10770,
+          12230,
+          12370,
+          13663
+        ],
+        "Kraj Vysočina|Havlíčkův Brod": [
+          10590,
+          12445,
+          13730,
+          15370,
+          15370
+        ],
+        "Kraj Vysočina|Jihlava": [
+          12234,
+          14770,
+          16230,
+          17370,
+          18230
+        ],
+        "Kraj Vysočina|Pelhřimov": [
+          10798,
+          13580,
+          14805,
+          14811,
+          15380
+        ],
+        "Kraj Vysočina|Třebíč": [
+          11310,
+          13270,
+          14230,
+          14370,
+          15520
+        ],
+        "Kraj Vysočina|Žďár nad Sázavou": [
+          9993,
+          13215,
+          13786,
+          15031,
+          15031
+        ],
+        "Královéhradecký kraj|Hradec Králové": [
+          13310,
+          15770,
+          17230,
+          17662,
+          18380
+        ],
+        "Královéhradecký kraj|Jičín": [
+          11285,
+          12970,
+          14805,
+          14870,
+          16880
+        ],
+        "Královéhradecký kraj|Náchod": [
+          9410,
+          11770,
+          13230,
+          13870,
+          14005
+        ],
+        "Královéhradecký kraj|Rychnov nad Kněžnou": [
+          10456,
+          13270,
+          13978,
+          14370,
+          15780
+        ],
+        "Královéhradecký kraj|Trutnov": [
+          9963,
+          12683,
+          14045,
+          14045,
+          15857
+        ],
+        "Liberecký kraj|Jablonec nad Nisou": [
+          10810,
+          13130,
+          15230,
+          15987,
+          16880
+        ],
+        "Liberecký kraj|Liberec": [
+          11978,
+          14470,
+          15730,
+          16370,
+          17408
+        ],
+        "Liberecký kraj|Semily": [
+          9810,
+          12770,
+          14230,
+          15370,
+          16410
+        ],
+        "Liberecký kraj|Česká Lípa": [
+          10182,
+          12460,
+          13726,
+          14370,
+          14880
+        ],
+        "Moravskoslezský kraj|Bruntál": [
+          8575,
+          10270,
+          11730,
+          12170,
+          13614
+        ],
+        "Moravskoslezský kraj|Frýdek-Místek": [
+          11175,
+          13310,
+          14919,
+          15276,
+          15743
+        ],
+        "Moravskoslezský kraj|Karviná": [
+          9744,
+          11560,
+          12793,
+          13590,
+          14628
+        ],
+        "Moravskoslezský kraj|Nový Jičín": [
+          9664,
+          12170,
+          13934,
+          14870,
+          14960
+        ],
+        "Moravskoslezský kraj|Opava": [
+          10610,
+          13372,
+          15230,
+          15370,
+          16880
+        ],
+        "Moravskoslezský kraj|Ostrava-město": [
+          11246,
+          13350,
+          14530,
+          15233,
+          15982
+        ],
+        "Olomoucký kraj|Jeseník": [
+          9310,
+          10384,
+          12230,
+          12520,
+          12520
+        ],
+        "Olomoucký kraj|Olomouc": [
+          12310,
+          14770,
+          16762,
+          17370,
+          17380
+        ],
+        "Olomoucký kraj|Prostějov": [
+          10477,
+          12770,
+          14730,
+          15654,
+          16355
+        ],
+        "Olomoucký kraj|Přerov": [
+          10310,
+          11810,
+          13676,
+          14320,
+          15380
+        ],
+        "Olomoucký kraj|Šumperk": [
+          10310,
+          12311,
+          12930,
+          13520,
+          14380
+        ],
+        "Pardubický kraj|Chrudim": [
+          11310,
+          12770,
+          14095,
+          14945,
+          15380
+        ],
+        "Pardubický kraj|Pardubice": [
+          12990,
+          15552,
+          16804,
+          17870,
+          19005
+        ],
+        "Pardubický kraj|Svitavy": [
+          10310,
+          12719,
+          13730,
+          13730,
+          14380
+        ],
+        "Pardubický kraj|Ústí nad Orlicí": [
+          9992,
+          11770,
+          13580,
+          14170,
+          14380
+        ],
+        "Plzeňský kraj|Domažlice": [
+          9310,
+          11770,
+          12230,
+          13670,
+          13670
+        ],
+        "Plzeňský kraj|Klatovy": [
+          9310,
+          11770,
+          13230,
+          13230,
+          13380
+        ],
+        "Plzeňský kraj|Plzeň-jih": [
+          10310,
+          11770,
+          14230,
+          17370,
+          17370
+        ],
+        "Plzeňský kraj|Plzeň-město": [
+          12810,
+          14770,
+          16850,
+          17870,
+          18766
+        ],
+        "Plzeňský kraj|Plzeň-sever": [
+          10866,
+          13770,
+          15230,
+          15230,
+          17180
+        ],
+        "Plzeňský kraj|Rokycany": [
+          9988,
+          12615,
+          12830,
+          13845,
+          13845
+        ],
+        "Plzeňský kraj|Tachov": [
+          10825,
+          12770,
+          14180,
+          14180,
+          15891
+        ],
+        "Středočeský kraj|Benešov": [
+          11330,
+          14789,
+          15496,
+          17326,
+          17326
+        ],
+        "Středočeský kraj|Beroun": [
+          13200,
+          15270,
+          17924,
+          18370,
+          18370
+        ],
+        "Středočeský kraj|Kladno": [
+          12815,
+          15020,
+          16630,
+          17813,
+          19642
+        ],
+        "Středočeský kraj|Kolín": [
+          12400,
+          14770,
+          17208,
+          17370,
+          18380
+        ],
+        "Středočeský kraj|Kutná Hora": [
+          11635,
+          14072,
+          16080,
+          16080,
+          19113
+        ],
+        "Středočeský kraj|Mladá Boleslav": [
+          13310,
+          14873,
+          17643,
+          17803,
+          19430
+        ],
+        "Středočeský kraj|Mělník": [
+          12608,
+          15810,
+          16630,
+          18370,
+          19380
+        ],
+        "Středočeský kraj|Nymburk": [
+          13310,
+          15295,
+          17198,
+          17370,
+          19080
+        ],
+        "Středočeský kraj|Praha-východ": [
+          15310,
+          17770,
+          21150,
+          22849,
+          22849
+        ],
+        "Středočeský kraj|Praha-západ": [
+          15310,
+          18770,
+          21080,
+          22370,
+          24805
+        ],
+        "Středočeský kraj|Příbram": [
+          11523,
+          13770,
+          15230,
+          16370,
+          16370
+        ],
+        "Středočeský kraj|Rakovník": [
+          11310,
+          14103,
+          16884,
+          16884,
+          17380
+        ],
+        "Zlínský kraj|Kroměříž": [
+          10280,
+          12770,
+          14230,
+          14730,
+          15580
+        ],
+        "Zlínský kraj|Uherské Hradiště": [
+          11310,
+          13770,
+          15230,
+          15230,
+          16081
+        ],
+        "Zlínský kraj|Vsetín": [
+          10924,
+          12770,
+          13955,
+          13955,
+          16380
+        ],
+        "Zlínský kraj|Zlín": [
+          11310,
+          13651,
+          15230,
+          15870,
+          16680
+        ],
+        "Ústecký kraj|Chomutov": [
+          9554,
+          11770,
+          13260,
+          13687,
+          14380
+        ],
+        "Ústecký kraj|Děčín": [
+          9229,
+          11688,
+          12530,
+          13953,
+          14718
+        ],
+        "Ústecký kraj|Litoměřice": [
+          11652,
+          13770,
+          15637,
+          15970,
+          15970
+        ],
+        "Ústecký kraj|Louny": [
+          10810,
+          12770,
+          13730,
+          13885,
+          15605
+        ],
+        "Ústecký kraj|Most": [
+          9403,
+          11382,
+          12676,
+          13370,
+          13978
+        ],
+        "Ústecký kraj|Teplice": [
+          9696,
+          11770,
+          12814,
+          14370,
+          14370
+        ],
+        "Ústecký kraj|Ústí nad Labem": [
+          10011,
+          11770,
+          13308,
+          13731,
+          14305
+        ]
+      }
+    }
+  ],
+  "help": "Zranitelnou osobou je osoba splňující některý z důvodů podle § 7 zákona č. 151/2025 Sb. Nezaopatřené děti jsou označovány automaticky. Ostatní důvody zkontrolujte podle aktuálního znění zákona.",
+  "reasons": [
+    "a) Věk nad 68 let",
+    "b) Starobní důchod",
+    "c) Invalidita II. nebo III. stupně",
+    "d) Mateřství nebo nemocenské v souvislosti s porodem",
+    "e) Péče rodiče o dítě",
+    "f) Péče o osobu závislou na pomoci",
+    "g) Příspěvek na péči II. stupně nebo vyšší",
+    "h) Nezaopatřené dítě",
+    "i) Pozůstalý manžel nebo partner"
+  ],
+  "vulnItems": [
+    {
+      "letter": "a",
+      "short": "Věk nad 68 let",
+      "full": "osoba starší 68 let",
+      "active": true,
+      "auto": false,
+      "singleUse": false
+    },
+    {
+      "letter": "b",
+      "short": "Starobní důchod",
+      "full": "poživatel starobního důchodu",
+      "active": true,
+      "auto": false,
+      "singleUse": false
+    },
+    {
+      "letter": "c",
+      "short": "Invalidita II. nebo III. stupně",
+      "full": "osoba invalidní ve druhém nebo třetím stupni",
+      "active": true,
+      "auto": false,
+      "singleUse": false
+    },
+    {
+      "letter": "d",
+      "short": "Mateřství nebo nemocenské v souvislosti s porodem",
+      "full": "osoba pobírající peněžitou pomoc v mateřství nebo nemocenské poskytované v souvislosti s porodem",
+      "active": true,
+      "auto": false,
+      "singleUse": false
+    },
+    {
+      "letter": "e",
+      "short": "Péče rodiče o dítě",
+      "full": "rodič pečující o dítě mladší 4 let věku nebo osamělý rodič pečující o dítě mladší 15 let věku",
+      "active": true,
+      "auto": false,
+      "singleUse": true
+    },
+    {
+      "letter": "f",
+      "short": "Péče o osobu závislou na pomoci",
+      "full": "osoba osobně pečující o dítě ve věku do 10 let závislé na pomoci jiné osoby ve stupni I nebo osoba osobně pečující o osobu závislou na pomoci jiné osoby ve stupni II nebo vyšším, a to pokud v žádosti o příspěvek na péči byla uvedena nebo po přiznání příspěvku na péči příslušnému orgánu ohlášena jako osoba poskytující pomoc",
+      "active": true,
+      "auto": false,
+      "singleUse": true
+    },
+    {
+      "letter": "g",
+      "short": "Příspěvek na péči II. stupně nebo vyšší",
+      "full": "poživatel příspěvku na péči ve stupni II nebo vyšším",
+      "active": true,
+      "auto": false,
+      "singleUse": false
+    },
+    {
+      "letter": "h",
+      "short": "Nezaopatřené dítě",
+      "full": "nezaopatřené dítě, nebo",
+      "active": true,
+      "auto": true,
+      "singleUse": false
+    },
+    {
+      "letter": "i",
+      "short": "Pozůstalý manžel nebo partner",
+      "full": "pozůstalý manžel nebo partner, se kterým uzavřel partnerství podle občanského zákoníku nebo registrované partnerství podle zákona o registrovaném partnerství (dále jen „partner“), a to po dobu 12 kalendářních měsíců od měsíce následujícího po měsíci, kdy jeho manžel nebo partner zemřel.",
+      "active": true,
+      "auto": false,
+      "singleUse": false
+    }
+  ],
+  "vulnRules": [
+    {
+      "paragraph": 2,
+      "text": "Za zranitelnou osobu může být z důvodu péče o děti v rámci jedné domácnosti považován jen jeden z rodičů.",
+      "active": true
+    },
+    {
+      "paragraph": 3,
+      "text": "Je-li pečujících osob podle odstavce 1 písm. f) o tutéž osobu více, lze za zranitelnou osobu považovat z tohoto důvodu pouze jednu pečující osobu, a to tu, která je určena jejich písemnou dohodou. Nedohodnou-li se, nelze za zranitelnou osobu z tohoto důvodu považovat žádnou z nich.",
+      "active": true
+    }
+  ],
+  "vulnLawText": "§ 7\nZranitelná osoba\n(1) Zranitelnou osobou se pro účely tohoto zákona rozumí\na) osoba starší 68 let,\nb) poživatel starobního důchodu,\nc) osoba invalidní ve druhém nebo třetím stupni,\nd) osoba pobírající peněžitou pomoc v mateřství nebo nemocenské poskytované v souvislosti s porodem,\ne) rodič pečující o dítě mladší 4 let věku nebo osamělý rodič pečující o dítě mladší 15 let věku,\nf) osoba osobně pečující o dítě ve věku do 10 let závislé na pomoci jiné osoby ve stupni I nebo osoba osobně pečující o osobu závislou na pomoci jiné osoby ve stupni II nebo vyšším, a to pokud v žádosti o příspěvek na péči byla uvedena nebo po přiznání příspěvku na péči příslušnému orgánu ohlášena jako osoba poskytující pomoc,\ng) poživatel příspěvku na péči ve stupni II nebo vyšším,\nh) nezaopatřené dítě, nebo\ni) pozůstalý manžel nebo partner, se kterým uzavřel partnerství podle občanského zákoníku nebo registrované partnerství podle zákona o registrovaném partnerství (dále jen „partner“), a to po dobu 12 kalendářních měsíců od měsíce následujícího po měsíci, kdy jeho manžel nebo partner zemřel.\n(2) Za zranitelnou osobu může být z důvodu péče o děti v rámci jedné domácnosti považován jen jeden z rodičů.\n(3) Je-li pečujících osob podle odstavce 1 písm. f) o tutéž osobu více, lze za zranitelnou osobu považovat z tohoto důvodu pouze jednu pečující osobu, a to tu, která je určena jejich písemnou dohodou. Nedohodnou-li se, nelze za zranitelnou osobu z tohoto důvodu považovat žádnou z nich."
+}
